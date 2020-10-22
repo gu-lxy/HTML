@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaScript</name>
+	<comment>Create By HBuilder</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.aptana.ide.core.unifiedBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.aptana.editor.php.aptanaPhpBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.aptana.projects.webnature</nature>
+		<nature>com.aptana.editor.php.phpNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>img/9a23891f082813df1fcf4ebcf5cb432.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/Camera%20Roll/9a23891f082813df1fcf4ebcf5cb432.jpg</locationURI>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1579412534774</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.orFilterMatcher</id>
+				<arguments>
+					<matcher>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+						<arguments>1.0-projectRelativePath-matches-false-false-bin</arguments>
+					</matcher>
+					<matcher>
+						<id>org.eclipse.ui.ide.multiFilter</id>
+						<arguments>1.0-projectRelativePath-matches-false-false-setting</arguments>
+					</matcher>
+				</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
